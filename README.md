@@ -6,7 +6,7 @@ A Java 17 desktop application built with Swing, JDBC and MySQL. It includes room
 
 - JDK 17 or newer (`java -version` and `javac -version`)
 - Maven 3.9 or newer (`mvn -version`)
-- MySQL Server running locally
+- MySQL Server running locally(I prefer installing xampp server)
 - VS Code with the **Extension Pack for Java** (recommended)
 
 ## Database setup
